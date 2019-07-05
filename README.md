@@ -1,0 +1,2 @@
+# Semde-alex
+computer science
